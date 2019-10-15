@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-15T02:13:50.059Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="OFj90fpEwBQaJ8aLEfa0" version="12.1.1" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-15T02:18:52.964Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="9mRR2IeYWJa8i1AWCcza" version="12.1.1" type="github" pages="1">
   <diagram id="wU1A7ZqZoi6GiLLCmWU0" name="Page-1">
     <mxGraphModel dx="854" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -309,7 +309,7 @@
         <mxCell id="ZNw0FCCPqXBxDtfS_jLe-94" value="uaa_token存入redis" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="660" y="835" width="130" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="ZNw0FCCPqXBxDtfS_jLe-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="ZNw0FCCPqXBxDtfS_jLe-95" target="ZNw0FCCPqXBxDtfS_jLe-97" edge="1">
+        <mxCell id="sy4YX7AeFQuPvRJ4Ls3s-3" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="ZNw0FCCPqXBxDtfS_jLe-95" target="sy4YX7AeFQuPvRJ4Ls3s-2">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="ZNw0FCCPqXBxDtfS_jLe-95" value="调用rancher接口&lt;br&gt;创建该用户" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
@@ -318,14 +318,8 @@
         <mxCell id="ZNw0FCCPqXBxDtfS_jLe-96" value="N" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
           <mxGeometry x="773" y="1056" width="20" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="sy4YX7AeFQuPvRJ4Ls3s-1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="726" y="1170" as="targetPoint"/>
-            <mxPoint x="885.95" y="1170" as="sourcePoint"/>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ZNw0FCCPqXBxDtfS_jLe-97" value="存入redis" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
-          <mxGeometry x="875" y="1140" width="130" height="60" as="geometry"/>
+          <mxGeometry x="1015" y="1210" width="130" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="ZNw0FCCPqXBxDtfS_jLe-102" value="Y" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
           <mxGeometry x="735" y="1120" width="20" height="20" as="geometry"/>
@@ -403,6 +397,19 @@
         </mxCell>
         <mxCell id="ZNw0FCCPqXBxDtfS_jLe-137" value="N" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
           <mxGeometry x="220" y="1005" width="20" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="sy4YX7AeFQuPvRJ4Ls3s-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="726" y="1160" as="targetPoint"/>
+            <mxPoint x="1076" y="1115" as="sourcePoint"/>
+            <Array as="points">
+              <mxPoint x="1076" y="1160"/>
+              <mxPoint x="746" y="1160"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sy4YX7AeFQuPvRJ4Ls3s-2" value="创建成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="1035" width="80" height="80" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
