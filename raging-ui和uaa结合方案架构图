@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-24T04:30:09.617Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="KavzaUhKHtduPi8Da3e2" version="12.1.4" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-24T04:30:44.981Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="3hfRweADmNiNccVw9P3O" version="12.1.4" type="github" pages="1">
   <diagram id="JcPJvcP8vzCySAAviPYO" name="Page-1">
     <mxGraphModel dx="1408" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -104,7 +104,7 @@
         <mxCell id="76PlY3qgO6dOQQKfIqFN-58" value="proxy" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1080" y="90" width="108" height="200" as="geometry"/>
         </mxCell>
-        <mxCell id="76PlY3qgO6dOQQKfIqFN-59" value="user manager" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="76PlY3qgO6dOQQKfIqFN-59" value="user manager" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="940" y="175" width="110" height="45" as="geometry"/>
         </mxCell>
         <mxCell id="76PlY3qgO6dOQQKfIqFN-61" value="third-apps" style="rounded=1;whiteSpace=wrap;html=1;opacity=80;align=center;fillColor=#d0cee2;strokeColor=#56517e;shadow=0;comic=1;fontColor=#000000;verticalAlign=top;fontSize=14;fontStyle=1" vertex="1" parent="1">
