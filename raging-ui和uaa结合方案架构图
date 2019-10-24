@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-24T09:16:26.254Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="Ra-dtxgeMYUWNYLG54bD" version="12.1.4" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-24T09:17:33.837Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="FGogyt-nqFo5CU26V5TV" version="12.1.4" type="github" pages="1">
   <diagram id="JcPJvcP8vzCySAAviPYO" name="Page-1">
     <mxGraphModel dx="1408" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -541,6 +541,12 @@
         </mxCell>
         <mxCell id="3qQfNFwAXlZ41oWte92f-112" value="&lt;span&gt;sessionToken manager&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;strokeColor=#000000;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="977.5" y="1740" width="112" height="1050" as="geometry"/>
+        </mxCell>
+        <mxCell id="3qQfNFwAXlZ41oWte92f-113" value="user manager" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;strokeColor=#000000;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="1149.5" y="1740" width="112" height="1050" as="geometry"/>
+        </mxCell>
+        <mxCell id="3qQfNFwAXlZ41oWte92f-114" value="third apps" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;strokeColor=#000000;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="1330" y="1740" width="112" height="1050" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
