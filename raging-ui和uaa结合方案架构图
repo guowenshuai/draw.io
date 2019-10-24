@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-24T04:29:41.141Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="rB3ofQzAerYOUy7H29Bd" version="12.1.4" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-24T04:30:09.617Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="KavzaUhKHtduPi8Da3e2" version="12.1.4" type="github" pages="1">
   <diagram id="JcPJvcP8vzCySAAviPYO" name="Page-1">
     <mxGraphModel dx="1408" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -124,7 +124,7 @@
             <Array as="points">
               <mxPoint x="510" y="20"/>
               <mxPoint x="760" y="20"/>
-              <mxPoint x="760" y="133"/>
+              <mxPoint x="760" y="123"/>
             </Array>
           </mxGeometry>
         </mxCell>
@@ -155,7 +155,7 @@
         <mxCell id="76PlY3qgO6dOQQKfIqFN-60" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;shadow=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="76PlY3qgO6dOQQKfIqFN-61" target="76PlY3qgO6dOQQKfIqFN-59">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="76PlY3qgO6dOQQKfIqFN-86" value="sessionToken&lt;br&gt;Manager" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="76PlY3qgO6dOQQKfIqFN-86" value="sessionToken&lt;br&gt;Manager" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="941" y="231" width="109" height="59" as="geometry"/>
         </mxCell>
       </root>
