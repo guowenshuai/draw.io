@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-25T06:30:22.086Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="DtjKFq7Fgr0F346xV9NV" version="12.1.5" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-25T06:31:06.691Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="FM1Z6e4ZAFyUofZuvTvQ" version="12.1.5" type="github" pages="1">
   <diagram id="JcPJvcP8vzCySAAviPYO" name="Page-1">
     <mxGraphModel dx="1173" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -588,10 +588,10 @@
             <mxPoint x="1544.4299999999998" y="1725.13" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3qQfNFwAXlZ41oWte92f-137" value="用户直接登录" style="ellipse;whiteSpace=wrap;html=1;rounded=0;comic=1;opacity=40;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="3qQfNFwAXlZ41oWte92f-137" value="用户直接请求数据" style="ellipse;whiteSpace=wrap;html=1;rounded=0;comic=1;opacity=40;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="38" y="1930" width="110" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="3qQfNFwAXlZ41oWte92f-139" value="登录" style="endArrow=classic;html=1;strokeWidth=1;comic=0;strokeColor=#000000;labelBorderColor=none;labelBackgroundColor=#ffffff;spacingLeft=2;spacingRight=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="3qQfNFwAXlZ41oWte92f-137" target="3qQfNFwAXlZ41oWte92f-138" edge="1">
+        <mxCell id="3qQfNFwAXlZ41oWte92f-139" value="发送请求" style="endArrow=classic;html=1;strokeWidth=1;comic=0;strokeColor=#000000;labelBorderColor=none;labelBackgroundColor=#ffffff;spacingLeft=2;spacingRight=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="3qQfNFwAXlZ41oWte92f-137" target="3qQfNFwAXlZ41oWte92f-138" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="137.5" y="2000" as="sourcePoint"/>
             <mxPoint x="302" y="2000" as="targetPoint"/>
