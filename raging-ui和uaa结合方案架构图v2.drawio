@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-10-25T07:09:49.630Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="xGBVSNxCrQmmPJ74e8Iu" version="12.1.5" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-25T07:12:23.070Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="ItH73vsWL64uRDfpGW-4" version="12.1.5" type="github" pages="1">
   <diagram id="JcPJvcP8vzCySAAviPYO" name="Page-1">
-    <mxGraphModel dx="1408" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4023" dy="2249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -750,6 +750,12 @@
             <mxPoint x="1212.5" y="2061" as="sourcePoint"/>
             <mxPoint x="1113" y="2012.7199999999998" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DDRdRkafaV5jgmy42ejv-20" value="jwt" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1890" y="340" width="370" height="180" as="geometry"/>
+        </mxCell>
+        <mxCell id="DDRdRkafaV5jgmy42ejv-21" value="req: {call_back:xxx, clientId:xxx, scope:xxx}&lt;br&gt;userFrom: wx/ad/ldap&lt;br&gt;userId: 00101" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="375" width="330" height="130" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
