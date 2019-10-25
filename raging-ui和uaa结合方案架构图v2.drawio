@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-25T04:03:05.684Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="46y5ku7MQ8zEtv9347UY" version="12.1.5" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-25T04:12:41.952Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="Mlgh9enOKdJeopaKTmCA" version="12.1.5" type="github" pages="1">
   <diagram id="JcPJvcP8vzCySAAviPYO" name="Page-1">
     <mxGraphModel dx="1408" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -214,7 +214,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="76PlY3qgO6dOQQKfIqFN-105" value="1. 本地redis校验sessionToken&lt;br&gt;2. 从raging-hub校验sessionToke并获取对应员工号（用户id）" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=0;comic=1;fillColor=#dae8fc;opacity=40;align=left;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="920" y="350" width="201" height="60" as="geometry"/>
+          <mxGeometry x="916" y="333" width="201" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="76PlY3qgO6dOQQKfIqFN-110" value="uaa-proxy&lt;br&gt;get accessToken" style="ellipse;whiteSpace=wrap;html=1;rounded=0;comic=1;opacity=40;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="38" y="1300" width="110" height="40" as="geometry"/>
