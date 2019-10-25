@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-25T06:05:54.246Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="CZbFUTwDDsmvRP2mQej3" version="12.1.5" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-25T06:10:13.423Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="lP8uimILUxySgs3saltW" version="12.1.5" type="github" pages="1">
   <diagram id="JcPJvcP8vzCySAAviPYO" name="Page-1">
     <mxGraphModel dx="971" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -704,20 +704,41 @@
             <mxPoint x="905.5" y="1043.5" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DDRdRkafaV5jgmy42ejv-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="530" width="200" height="60" as="geometry"/>
+        <mxCell id="DDRdRkafaV5jgmy42ejv-9" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="10" y="590" width="200" height="90" as="geometry"/>
         </mxCell>
-        <mxCell id="DDRdRkafaV5jgmy42ejv-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="20" y="535" width="40" height="15" as="geometry"/>
+        <mxCell id="DDRdRkafaV5jgmy42ejv-3" value="raging-hub关键流程时序图" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" vertex="1" parent="DDRdRkafaV5jgmy42ejv-9">
+          <mxGeometry width="200" height="90" as="geometry"/>
         </mxCell>
-        <mxCell id="DDRdRkafaV5jgmy42ejv-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="20" y="565" width="40" height="15" as="geometry"/>
+        <mxCell id="DDRdRkafaV5jgmy42ejv-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="DDRdRkafaV5jgmy42ejv-9">
+          <mxGeometry x="10" y="31.83333333333337" width="40" height="17.5" as="geometry"/>
         </mxCell>
-        <mxCell id="DDRdRkafaV5jgmy42ejv-6" value="oauth2相关功能模块" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="70" y="564" width="120" height="20" as="geometry"/>
+        <mxCell id="DDRdRkafaV5jgmy42ejv-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="DDRdRkafaV5jgmy42ejv-9">
+          <mxGeometry x="10" y="60.83333333333337" width="40" height="17.5" as="geometry"/>
         </mxCell>
-        <mxCell id="DDRdRkafaV5jgmy42ejv-7" value="登录相关功能模块" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="71" y="534" width="110" height="20" as="geometry"/>
+        <mxCell id="DDRdRkafaV5jgmy42ejv-6" value="oauth2-server相关模块" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="DDRdRkafaV5jgmy42ejv-9">
+          <mxGeometry x="60" y="59.66666666666663" width="140" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="DDRdRkafaV5jgmy42ejv-7" value="登录相关功能模块" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="DDRdRkafaV5jgmy42ejv-9">
+          <mxGeometry x="61" y="30.66666666666663" width="110" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="DDRdRkafaV5jgmy42ejv-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="10" y="1690" width="200" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="DDRdRkafaV5jgmy42ejv-11" value="uaa-fronted-proxy关键流程时序图" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" vertex="1" parent="DDRdRkafaV5jgmy42ejv-10">
+          <mxGeometry width="200" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="DDRdRkafaV5jgmy42ejv-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="DDRdRkafaV5jgmy42ejv-10">
+          <mxGeometry x="10" y="31.83333333333337" width="40" height="17.5" as="geometry"/>
+        </mxCell>
+        <mxCell id="DDRdRkafaV5jgmy42ejv-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="DDRdRkafaV5jgmy42ejv-10">
+          <mxGeometry x="10" y="60.83333333333337" width="40" height="17.5" as="geometry"/>
+        </mxCell>
+        <mxCell id="DDRdRkafaV5jgmy42ejv-14" value="oauth2-server相关模块" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="DDRdRkafaV5jgmy42ejv-10">
+          <mxGeometry x="60" y="59.66666666666663" width="140" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="DDRdRkafaV5jgmy42ejv-15" value="登录相关功能模块" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="DDRdRkafaV5jgmy42ejv-10">
+          <mxGeometry x="61" y="30.66666666666663" width="110" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
