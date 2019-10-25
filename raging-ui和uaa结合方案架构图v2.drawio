@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-25T07:13:07.503Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="J26X7Otdea0ysB8Ref9O" version="12.1.5" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-25T07:43:17.677Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="YUboQDZTa7CHHwo3iYPB" version="12.1.5" type="github" pages="1">
   <diagram id="JcPJvcP8vzCySAAviPYO" name="Page-1">
     <mxGraphModel dx="2011" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -756,6 +756,12 @@
         </mxCell>
         <mxCell id="DDRdRkafaV5jgmy42ejv-21" value="req: {call_back:xxx, clientId:xxx, scope:xxx}&lt;br&gt;userFrom: wx/ad/ldap&lt;br&gt;userId: 00101" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=left;" vertex="1" parent="1">
           <mxGeometry x="1757" y="675" width="330" height="130" as="geometry"/>
+        </mxCell>
+        <mxCell id="DDRdRkafaV5jgmy42ejv-22" value="uaa-fronted-proxy 需要的api" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1800" y="363" width="370" height="180" as="geometry"/>
+        </mxCell>
+        <mxCell id="DDRdRkafaV5jgmy42ejv-23" value="/oauth/authorize 获取code&lt;br&gt;/oauth/token&amp;nbsp; 换取token&lt;br&gt;&lt;br&gt;/session/auth 验证session是否有效" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="400" width="330" height="130" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
