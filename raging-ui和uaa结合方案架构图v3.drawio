@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-10-26T10:50:47.192Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="rpcEJVZqv-BYjQjNSfn3" version="12.1.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-26T10:52:14.264Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="DbNM60HkfTwB_FAnVTt0" version="12.1.7" type="github" pages="1">
   <diagram id="JcPJvcP8vzCySAAviPYO" name="Page-1">
-    <mxGraphModel dx="805" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1408" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -786,11 +786,11 @@
         <mxCell id="DjlRrPvjS2F6TvQDkWPC-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="36.5" y="700.8333333333334" width="40" height="17.5" as="geometry"/>
         </mxCell>
-        <mxCell id="DjlRrPvjS2F6TvQDkWPC-6" value="oauth2-server相关模块" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="76.5" y="699.6666666666666" width="140" height="20" as="geometry"/>
+        <mxCell id="DjlRrPvjS2F6TvQDkWPC-6" value="uaa-fronted-proxy" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="87.5" y="698.1666666666666" width="110" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="DjlRrPvjS2F6TvQDkWPC-7" value="登录相关功能模块" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="87.5" y="670.6666666666666" width="110" height="20" as="geometry"/>
+        <mxCell id="DjlRrPvjS2F6TvQDkWPC-7" value="raging-hub" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="87.5" y="670.6666666666666" width="70" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="DjlRrPvjS2F6TvQDkWPC-11" value="uaa-fronted-proxy" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;comic=0;align=center;strokeWidth=1;flipH=1;flipV=0;strokeColor=#10739e;labelBorderColor=none;labelBackgroundColor=none;fillColor=#b1ddf0;" vertex="1" parent="1">
           <mxGeometry x="851.5" y="699.5" width="125" height="420" as="geometry"/>
