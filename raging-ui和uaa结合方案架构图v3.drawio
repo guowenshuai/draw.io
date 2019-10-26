@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-26T10:02:05.337Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="d5ytbKfA88HYLK8Jpav2" version="12.1.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-26T10:03:26.706Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="oethyN-OfLa7lo8kb12c" version="12.1.7" type="github" pages="1">
   <diagram id="JcPJvcP8vzCySAAviPYO" name="Page-1">
     <mxGraphModel dx="1408" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -189,14 +189,11 @@
         <mxCell id="76PlY3qgO6dOQQKfIqFN-93" value="session注入" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="76PlY3qgO6dOQQKfIqFN-86" target="76PlY3qgO6dOQQKfIqFN-58" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="76PlY3qgO6dOQQKfIqFN-86" value="token manager&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;解析和校验&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#b0e3e6;strokeColor=#0e8088;align=center;verticalAlign=top;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1075" y="202" width="122" height="91" as="geometry"/>
+        <mxCell id="76PlY3qgO6dOQQKfIqFN-86" value="token manager&lt;span style=&quot;font-weight: normal&quot;&gt;解析和校验&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;fillColor=#b0e3e6;strokeColor=#0e8088;align=center;verticalAlign=top;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="1075" y="200" width="255" height="90" as="geometry"/>
         </mxCell>
         <mxCell id="76PlY3qgO6dOQQKfIqFN-89" value="&lt;b&gt;middleware&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;verticalAlign=top;align=left;fillColor=#f8cecc;strokeColor=#b85450;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="1070" y="89" width="151" height="94" as="geometry"/>
-        </mxCell>
-        <mxCell id="76PlY3qgO6dOQQKfIqFN-94" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="76PlY3qgO6dOQQKfIqFN-90" target="76PlY3qgO6dOQQKfIqFN-86" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="76PlY3qgO6dOQQKfIqFN-90" value="&lt;b&gt;auth sessionToken&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;verticalAlign=middle;align=center;fillColor=#f8cecc;strokeColor=#b85450;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="1081" y="146" width="130" height="31" as="geometry"/>
@@ -440,10 +437,10 @@
           <mxGeometry x="630" y="183" width="105" height="24" as="geometry"/>
         </mxCell>
         <mxCell id="3qQfNFwAXlZ41oWte92f-110" value="sessionToken Mgr" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;shadow=0;comic=1;align=left;verticalAlign=top;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="1084" y="238" width="106" height="24" as="geometry"/>
+          <mxGeometry x="1083.5" y="232" width="105" height="46" as="geometry"/>
         </mxCell>
-        <mxCell id="3qQfNFwAXlZ41oWte92f-111" value="accessToken Mgr" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;shadow=0;comic=1;align=left;verticalAlign=top;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="1084" y="265" width="105" height="24" as="geometry"/>
+        <mxCell id="3qQfNFwAXlZ41oWte92f-111" value="accessToken Mgr" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;shadow=0;comic=1;align=center;verticalAlign=middle;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="1211" y="232" width="105" height="46" as="geometry"/>
         </mxCell>
         <mxCell id="3qQfNFwAXlZ41oWte92f-112" value="&lt;span&gt;sessionToken Mgr&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;strokeColor=#b46504;fontStyle=0;fillColor=#fad7ac;" parent="1" vertex="1">
           <mxGeometry x="443" y="1480" width="112" height="700" as="geometry"/>
