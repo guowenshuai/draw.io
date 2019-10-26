@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-26T10:43:59.978Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="65GBkNgMTEg2Md7U_9qT" version="12.1.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-26T10:44:10.050Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="lZcZqcXznf0blW6449UV" version="12.1.7" type="github" pages="1">
   <diagram id="JcPJvcP8vzCySAAviPYO" name="Page-1">
     <mxGraphModel dx="1173" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -792,19 +792,19 @@
         <mxCell id="DjlRrPvjS2F6TvQDkWPC-7" value="登录相关功能模块" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
           <mxGeometry x="87.5" y="670.6666666666666" width="110" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="DjlRrPvjS2F6TvQDkWPC-11" value="uaa-fronted-proxy" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;comic=0;align=center;strokeWidth=1;flipH=1;flipV=0;strokeColor=#b46504;labelBorderColor=none;labelBackgroundColor=none;fillColor=#fad7ac;" vertex="1" parent="1">
+        <mxCell id="DjlRrPvjS2F6TvQDkWPC-11" value="uaa-fronted-proxy" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;comic=0;align=center;strokeWidth=1;flipH=1;flipV=0;strokeColor=#10739e;labelBorderColor=none;labelBackgroundColor=none;fillColor=#b1ddf0;" vertex="1" parent="1">
           <mxGeometry x="851.5" y="699.5" width="125" height="720" as="geometry"/>
         </mxCell>
         <mxCell id="DjlRrPvjS2F6TvQDkWPC-29" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;comic=0;strokeWidth=1;align=center;strokeColor=#000000;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="DjlRrPvjS2F6TvQDkWPC-11">
           <mxGeometry x="58" y="106" width="10" height="325" as="geometry"/>
         </mxCell>
-        <mxCell id="DjlRrPvjS2F6TvQDkWPC-14" value="rancher" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;comic=0;align=center;strokeWidth=1;flipH=1;flipV=0;strokeColor=#b46504;labelBorderColor=none;labelBackgroundColor=none;fillColor=#fad7ac;" vertex="1" parent="1">
+        <mxCell id="DjlRrPvjS2F6TvQDkWPC-14" value="rancher" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;comic=0;align=center;strokeWidth=1;flipH=1;flipV=0;strokeColor=#10739e;labelBorderColor=none;labelBackgroundColor=none;fillColor=#b1ddf0;" vertex="1" parent="1">
           <mxGeometry x="1359.5" y="699.5" width="125" height="720" as="geometry"/>
         </mxCell>
-        <mxCell id="DjlRrPvjS2F6TvQDkWPC-17" value="user manager" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;comic=0;align=center;strokeWidth=1;flipH=1;flipV=0;strokeColor=#b46504;labelBorderColor=none;labelBackgroundColor=none;fillColor=#fad7ac;" vertex="1" parent="1">
+        <mxCell id="DjlRrPvjS2F6TvQDkWPC-17" value="user manager" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;comic=0;align=center;strokeWidth=1;flipH=1;flipV=0;strokeColor=#10739e;labelBorderColor=none;labelBackgroundColor=none;fillColor=#b1ddf0;" vertex="1" parent="1">
           <mxGeometry x="1021" y="699.5" width="125" height="720" as="geometry"/>
         </mxCell>
-        <mxCell id="DjlRrPvjS2F6TvQDkWPC-20" value="api-proxy" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;comic=0;align=center;strokeWidth=1;flipH=1;flipV=0;strokeColor=#b46504;labelBorderColor=none;labelBackgroundColor=none;fillColor=#fad7ac;" vertex="1" parent="1">
+        <mxCell id="DjlRrPvjS2F6TvQDkWPC-20" value="api-proxy" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;comic=0;align=center;strokeWidth=1;flipH=1;flipV=0;strokeColor=#10739e;labelBorderColor=none;labelBackgroundColor=none;fillColor=#b1ddf0;" vertex="1" parent="1">
           <mxGeometry x="1190" y="699.5" width="125" height="720" as="geometry"/>
         </mxCell>
         <mxCell id="DjlRrPvjS2F6TvQDkWPC-24" value="raging-hub" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;comic=0;align=center;strokeWidth=1;flipH=1;flipV=0;strokeColor=#b46504;labelBorderColor=none;labelBackgroundColor=none;fillColor=#fad7ac;" vertex="1" parent="1">
