@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-10-26T11:21:48.344Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="agdRA7BJkEwpzMKN-VZ-" version="12.1.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-26T11:24:16.996Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="j3Yz_Y2P0uUPL3KpBKLP" version="12.1.7" type="github" pages="1">
   <diagram id="JcPJvcP8vzCySAAviPYO" name="Page-1">
-    <mxGraphModel dx="1173" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="971" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -1018,7 +1018,7 @@
           <mxGeometry x="1092.5" y="1660" width="125" height="400" as="geometry"/>
         </mxCell>
         <mxCell id="DjlRrPvjS2F6TvQDkWPC-124" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;comic=0;strokeWidth=1;align=center;strokeColor=#000000;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="DjlRrPvjS2F6TvQDkWPC-101">
-          <mxGeometry x="57.5" y="228" width="10" height="53" as="geometry"/>
+          <mxGeometry x="57.5" y="220" width="10" height="53" as="geometry"/>
         </mxCell>
         <mxCell id="DjlRrPvjS2F6TvQDkWPC-103" value="uaa-fronted-proxy" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;comic=0;align=center;strokeWidth=1;flipH=1;flipV=0;strokeColor=#10739e;labelBorderColor=none;labelBackgroundColor=none;fillColor=#b1ddf0;" vertex="1" parent="1">
           <mxGeometry x="533" y="1660" width="125" height="400" as="geometry"/>
@@ -1027,7 +1027,7 @@
           <mxGeometry x="58" y="106" width="10" height="44" as="geometry"/>
         </mxCell>
         <mxCell id="DjlRrPvjS2F6TvQDkWPC-122" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;comic=0;strokeWidth=1;align=center;strokeColor=#000000;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="DjlRrPvjS2F6TvQDkWPC-103">
-          <mxGeometry x="57.5" y="194.5" width="10" height="44" as="geometry"/>
+          <mxGeometry x="58" y="195" width="10" height="96" as="geometry"/>
         </mxCell>
         <mxCell id="DjlRrPvjS2F6TvQDkWPC-105" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="30" y="1610" width="200" height="90" as="geometry"/>
@@ -1086,16 +1086,22 @@
             <mxPoint x="787.5" y="1785.6800000000003" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DjlRrPvjS2F6TvQDkWPC-123" value="返回code" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.233;entryY=0.235;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DjlRrPvjS2F6TvQDkWPC-118" target="DjlRrPvjS2F6TvQDkWPC-122">
+        <mxCell id="DjlRrPvjS2F6TvQDkWPC-123" value="返回code" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DjlRrPvjS2F6TvQDkWPC-118">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="799.0699999999999" y="1784.3799999999997" as="sourcePoint"/>
-            <mxPoint x="974" y="1784.3799999999997" as="targetPoint"/>
+            <mxPoint x="603" y="1870" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DjlRrPvjS2F6TvQDkWPC-125" value="请求accessTokentoken" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.15;exitY=0.879;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DjlRrPvjS2F6TvQDkWPC-122" target="DjlRrPvjS2F6TvQDkWPC-124">
+        <mxCell id="DjlRrPvjS2F6TvQDkWPC-125" value="请求accessTokentoken" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.455;exitY=0.344;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DjlRrPvjS2F6TvQDkWPC-122" target="DjlRrPvjS2F6TvQDkWPC-124">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="974" y="1874.8400000000001" as="sourcePoint"/>
             <mxPoint x="612.8299999999997" y="1874.8400000000001" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DjlRrPvjS2F6TvQDkWPC-126" value="返回accessToken" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.317;entryY=0.682;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DjlRrPvjS2F6TvQDkWPC-124" target="DjlRrPvjS2F6TvQDkWPC-122">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="974" y="1880" as="sourcePoint"/>
+            <mxPoint x="612.9999999999998" y="1880" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
       </root>
