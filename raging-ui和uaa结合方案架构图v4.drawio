@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-10-28T04:22:53.764Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="mNjwxgN4fwx9tczkwEF7" version="12.1.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-28T04:24:42.699Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="3ReB3Zrk3z8MasTDw202" version="12.1.7" type="github" pages="1">
   <diagram id="JcPJvcP8vzCySAAviPYO" name="Page-1">
-    <mxGraphModel dx="805" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="971" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -534,17 +534,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JFqLKUiRbN9B1VJbT1PJ-12" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;width=60;height=20;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="1350" width="509" height="260" as="geometry"/>
+          <mxGeometry x="584" y="1340" width="491" height="380" as="geometry"/>
         </mxCell>
         <mxCell id="JFqLKUiRbN9B1VJbT1PJ-24" value="[raging-hub验证无效]" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="611.5" y="1510" width="130" height="20" as="geometry"/>
+          <mxGeometry x="611.5" y="1519" width="130" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="JFqLKUiRbN9B1VJbT1PJ-25" value="[raging-hub验证有效]" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
           <mxGeometry x="611.5" y="1570" width="130" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="JFqLKUiRbN9B1VJbT1PJ-27" value="返回错误码" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0.057;exitY=0.571;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DjlRrPvjS2F6TvQDkWPC-59" target="DjlRrPvjS2F6TvQDkWPC-82">
+        <mxCell id="JFqLKUiRbN9B1VJbT1PJ-27" value="返回错误码" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=1.1;entryY=0.591;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DjlRrPvjS2F6TvQDkWPC-59" target="DjlRrPvjS2F6TvQDkWPC-82">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="814" y="1497.76" as="sourcePoint"/>
+            <mxPoint x="560" y="1570" as="sourcePoint"/>
             <mxPoint x="623.81" y="1497.76" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
@@ -553,6 +553,9 @@
             <mxPoint x="604" y="1413" as="sourcePoint"/>
             <mxPoint x="425" y="1700.449" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JFqLKUiRbN9B1VJbT1PJ-29" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;width=60;height=20;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1500" width="434" height="160" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
