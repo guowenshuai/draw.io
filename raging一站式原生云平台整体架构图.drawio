@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-26T06:27:23.266Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="a4SZ85vI1UTeGny3CM21" version="12.3.0" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-26T06:30:01.067Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="IxmHFOBr_gVV8yGXoM6a" version="12.3.0" type="github" pages="1">
   <diagram id="OJ1-L1X5FSKiwOX5k5X4" name="Page-1">
     <mxGraphModel dx="813" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -102,6 +102,30 @@
         </mxCell>
         <mxCell id="HJIu8QdjYec44as9i2so-41" value="监控和日志集群" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
           <mxGeometry x="532" y="450" width="98" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="HJIu8QdjYec44as9i2so-42" value="开源组件集成" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="340" width="75" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="HJIu8QdjYec44as9i2so-43" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="290" width="80" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="HJIu8QdjYec44as9i2so-44" value="harbor" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="732" y="424" width="75" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="HJIu8QdjYec44as9i2so-45" value="rancher" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="732" y="391" width="75" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="HJIu8QdjYec44as9i2so-46" value="gitea" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="732" y="324" width="75" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="HJIu8QdjYec44as9i2so-47" value="drone" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="732" y="357" width="75" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="HJIu8QdjYec44as9i2so-48" value="" style="endArrow=classic;html=1;shape=flexArrow;width=19.428571428571427;endSize=2.525714285714286;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="698.5" y="374.5" as="sourcePoint"/>
+            <mxPoint x="728.5" y="374.5" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
