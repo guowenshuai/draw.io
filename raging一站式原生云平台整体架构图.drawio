@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-05T13:45:45.499Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="sYR-nuxhtqH_glZCFtQa" version="12.3.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-05T13:46:45.572Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="eo8SH6RArN3EPxSkd70f" version="12.3.6" type="github" pages="1">
   <diagram id="OJ1-L1X5FSKiwOX5k5X4" name="Page-1">
     <mxGraphModel dx="1422" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -204,6 +204,18 @@
             <mxPoint x="253.5" y="902.5" as="sourcePoint"/>
             <mxPoint x="116" y="902.5" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="At7sY8i9H949EmEd66Qm-33" value="LDAP" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="34.5" y="837.5" width="70" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="At7sY8i9H949EmEd66Qm-34" value="AD" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="34.5" y="877.5" width="70" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="At7sY8i9H949EmEd66Qm-35" value="企业微信" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="34.5" y="917.5" width="70" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="At7sY8i9H949EmEd66Qm-36" value="其他..." style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="34.5" y="955.5" width="70" height="25" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
