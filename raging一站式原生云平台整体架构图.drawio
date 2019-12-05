@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-05T14:22:47.488Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="YxJ-YlgLagd5dvTUHkVy" version="12.3.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-05T14:30:20.160Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="bg0w0TAEtl-lBC70kaHt" version="12.3.6" type="github" pages="1">
   <diagram id="OJ1-L1X5FSKiwOX5k5X4" name="Page-1">
     <mxGraphModel dx="1422" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -253,38 +253,53 @@
         <mxCell id="At7sY8i9H949EmEd66Qm-50" value="第三方服务单点登录对接" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
           <mxGeometry x="626" y="846" width="86" height="72" as="geometry"/>
         </mxCell>
-        <mxCell id="At7sY8i9H949EmEd66Qm-51" value="消息队列" style="rounded=0;whiteSpace=wrap;html=1;comic=1;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="925.5" y="720" width="32" height="70" as="geometry"/>
+        <mxCell id="At7sY8i9H949EmEd66Qm-51" value="平台数据报表" style="rounded=0;whiteSpace=wrap;html=1;comic=1;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="301" y="765" width="99" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="At7sY8i9H949EmEd66Qm-52" value="自建用户管理" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
-          <mxGeometry x="303.5" y="744" width="79" height="30" as="geometry"/>
+          <mxGeometry x="213" y="765" width="79" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="At7sY8i9H949EmEd66Qm-53" value="集群管理" style="rounded=0;whiteSpace=wrap;html=1;comic=1;align=left;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="506" y="730" width="364" height="60" as="geometry"/>
+        <mxCell id="At7sY8i9H949EmEd66Qm-53" value="集群管理" style="rounded=0;whiteSpace=wrap;html=1;comic=1;align=center;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="418" y="720" width="302" height="70" as="geometry"/>
         </mxCell>
         <mxCell id="At7sY8i9H949EmEd66Qm-54" value="oauth2 provider" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
-          <mxGeometry x="395" y="744" width="99" height="30" as="geometry"/>
+          <mxGeometry x="303.5" y="720" width="99" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="At7sY8i9H949EmEd66Qm-55" value="多集群管理" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
-          <mxGeometry x="567" y="743" width="65" height="30" as="geometry"/>
+          <mxGeometry x="428" y="745" width="65" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="At7sY8i9H949EmEd66Qm-57" value="系统监控" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
-          <mxGeometry x="638.5" y="743" width="65" height="30" as="geometry"/>
+          <mxGeometry x="501" y="745" width="65" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="At7sY8i9H949EmEd66Qm-58" value="用户角色配置" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
-          <mxGeometry x="212" y="745" width="79" height="30" as="geometry"/>
+          <mxGeometry x="212" y="720" width="79" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="At7sY8i9H949EmEd66Qm-59" value="集群存储" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
-          <mxGeometry x="789.5" y="743" width="65" height="30" as="geometry"/>
+          <mxGeometry x="645.5" y="745" width="65" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="At7sY8i9H949EmEd66Qm-60" value="集群监控" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
-          <mxGeometry x="714" y="744" width="65" height="30" as="geometry"/>
+          <mxGeometry x="573" y="746" width="65" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="At7sY8i9H949EmEd66Qm-61" value="团队管理" style="rounded=0;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=middle;comic=1;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="138" y="580" width="870" height="120" as="geometry"/>
         </mxCell>
         <mxCell id="At7sY8i9H949EmEd66Qm-71" value="项目管理" style="rounded=0;whiteSpace=wrap;html=1;align=left;comic=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="199" y="590" width="209" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="At7sY8i9H949EmEd66Qm-73" value="项目管理" style="rounded=0;whiteSpace=wrap;html=1;align=left;comic=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="209" y="600" width="209" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="At7sY8i9H949EmEd66Qm-74" value="团队管理" style="rounded=0;whiteSpace=wrap;html=1;align=center;comic=1;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="730" y="720" width="269" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="At7sY8i9H949EmEd66Qm-75" value="团队资源分配" style="rounded=0;whiteSpace=wrap;html=1;comic=1;flipH=0;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="826" y="745" width="78" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="At7sY8i9H949EmEd66Qm-76" value="创建团队" style="rounded=0;whiteSpace=wrap;html=1;comic=1;flipH=0;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="739" y="745" width="78" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="At7sY8i9H949EmEd66Qm-77" value="团队成果报表" style="rounded=0;whiteSpace=wrap;html=1;comic=1;flipH=0;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="912" y="745" width="78" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
