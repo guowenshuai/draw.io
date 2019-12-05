@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-05T14:41:10.496Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="NmJRBnDCsRhaWod1emnl" version="12.3.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-05T14:43:46.963Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="Mro8KAKM6OsIoGY21Zbj" version="12.3.6" type="github" pages="1">
   <diagram id="OJ1-L1X5FSKiwOX5k5X4" name="Page-1">
     <mxGraphModel dx="1422" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -281,13 +281,10 @@
           <mxGeometry x="553" y="705.5" width="65" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="At7sY8i9H949EmEd66Qm-61" value="团队管理" style="rounded=0;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=middle;comic=1;fontStyle=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="132.5" y="510" width="870" height="120" as="geometry"/>
+          <mxGeometry x="138" y="509" width="870" height="150" as="geometry"/>
         </mxCell>
-        <mxCell id="At7sY8i9H949EmEd66Qm-71" value="项目管理" style="rounded=0;whiteSpace=wrap;html=1;align=left;comic=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="193.5" y="520" width="209" height="100" as="geometry"/>
-        </mxCell>
-        <mxCell id="At7sY8i9H949EmEd66Qm-73" value="项目管理" style="rounded=0;whiteSpace=wrap;html=1;align=left;comic=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="203.5" y="530" width="209" height="100" as="geometry"/>
+        <mxCell id="At7sY8i9H949EmEd66Qm-71" value="项目管理" style="rounded=0;whiteSpace=wrap;html=1;align=center;comic=1;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="286" y="519" width="294" height="131" as="geometry"/>
         </mxCell>
         <mxCell id="At7sY8i9H949EmEd66Qm-74" value="团队管理" style="rounded=0;whiteSpace=wrap;html=1;align=center;comic=1;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="680" y="680" width="319" height="110" as="geometry"/>
@@ -306,6 +303,12 @@
         </mxCell>
         <mxCell id="At7sY8i9H949EmEd66Qm-81" value="构建效率提升" style="rounded=0;whiteSpace=wrap;html=1;comic=1;flipH=0;flipV=0;" vertex="1" parent="1">
           <mxGeometry x="902" y="735.5" width="83" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="At7sY8i9H949EmEd66Qm-83" value="成员管理" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="213" y="519" width="67" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="At7sY8i9H949EmEd66Qm-84" value="成员权限" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="213" y="560" width="67" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
