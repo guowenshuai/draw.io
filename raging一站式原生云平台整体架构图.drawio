@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-05T14:39:44.990Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="dzMc03WxxDT2IkE-S4AR" version="12.3.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-05T14:41:10.496Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="NmJRBnDCsRhaWod1emnl" version="12.3.6" type="github" pages="1">
   <diagram id="OJ1-L1X5FSKiwOX5k5X4" name="Page-1">
     <mxGraphModel dx="1422" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -254,31 +254,31 @@
           <mxGeometry x="626" y="846" width="86" height="72" as="geometry"/>
         </mxCell>
         <mxCell id="At7sY8i9H949EmEd66Qm-51" value="平台数据报表" style="rounded=0;whiteSpace=wrap;html=1;comic=1;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="301" y="705.5" width="99" height="30" as="geometry"/>
+          <mxGeometry x="311.5" y="705.5" width="99" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="At7sY8i9H949EmEd66Qm-52" value="自建用户管理" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="747" width="79" height="30" as="geometry"/>
+          <mxGeometry x="330" y="747" width="79" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="At7sY8i9H949EmEd66Qm-53" value="集群管理" style="rounded=0;whiteSpace=wrap;html=1;comic=1;align=center;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="418" y="680" width="162" height="110" as="geometry"/>
+          <mxGeometry x="430" y="680" width="220" height="110" as="geometry"/>
         </mxCell>
         <mxCell id="At7sY8i9H949EmEd66Qm-54" value="oauth2 provider" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
           <mxGeometry x="213" y="747" width="99" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="At7sY8i9H949EmEd66Qm-55" value="多集群管理" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
-          <mxGeometry x="426" y="705" width="65" height="30" as="geometry"/>
+          <mxGeometry x="458.5" y="705.5" width="65" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="At7sY8i9H949EmEd66Qm-57" value="集群告警" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
-          <mxGeometry x="426" y="747" width="65" height="30" as="geometry"/>
+          <mxGeometry x="457.5" y="747" width="65" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="At7sY8i9H949EmEd66Qm-58" value="用户角色配置" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
           <mxGeometry x="213" y="705.5" width="79" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="At7sY8i9H949EmEd66Qm-59" value="集群存储" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
-          <mxGeometry x="499.5" y="747" width="65" height="30" as="geometry"/>
+          <mxGeometry x="555" y="747" width="65" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="At7sY8i9H949EmEd66Qm-60" value="集群监控" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
-          <mxGeometry x="501" y="705" width="65" height="30" as="geometry"/>
+          <mxGeometry x="553" y="705.5" width="65" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="At7sY8i9H949EmEd66Qm-61" value="团队管理" style="rounded=0;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=middle;comic=1;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="132.5" y="510" width="870" height="120" as="geometry"/>
@@ -290,22 +290,16 @@
           <mxGeometry x="203.5" y="530" width="209" height="100" as="geometry"/>
         </mxCell>
         <mxCell id="At7sY8i9H949EmEd66Qm-74" value="团队管理" style="rounded=0;whiteSpace=wrap;html=1;align=center;comic=1;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="590" y="680" width="409" height="110" as="geometry"/>
+          <mxGeometry x="680" y="680" width="319" height="110" as="geometry"/>
         </mxCell>
-        <mxCell id="At7sY8i9H949EmEd66Qm-75" value="团队资源分配" style="rounded=0;whiteSpace=wrap;html=1;comic=1;flipH=0;flipV=0;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="667" y="706" width="150" height="75" as="geometry"/>
+        <mxCell id="At7sY8i9H949EmEd66Qm-75" value="团队资源分配" style="rounded=0;whiteSpace=wrap;html=1;comic=1;flipH=0;flipV=0;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="700" y="750" width="117" height="31" as="geometry"/>
         </mxCell>
         <mxCell id="At7sY8i9H949EmEd66Qm-76" value="创建团队" style="rounded=0;whiteSpace=wrap;html=1;comic=1;flipH=0;flipV=0;" vertex="1" parent="1">
-          <mxGeometry x="598" y="705" width="62" height="30" as="geometry"/>
+          <mxGeometry x="701" y="705" width="119" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="At7sY8i9H949EmEd66Qm-77" value="团队成果报表" style="rounded=0;whiteSpace=wrap;html=1;comic=1;flipH=0;flipV=0;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="825" y="705" width="165" height="75" as="geometry"/>
-        </mxCell>
-        <mxCell id="At7sY8i9H949EmEd66Qm-78" value="集群资源" style="rounded=0;whiteSpace=wrap;html=1;comic=1;flipH=0;flipV=0;" vertex="1" parent="1">
-          <mxGeometry x="676" y="728.5" width="62" height="30" as="geometry"/>
-        </mxCell>
-        <mxCell id="At7sY8i9H949EmEd66Qm-79" value="集群资源" style="rounded=0;whiteSpace=wrap;html=1;comic=1;flipH=0;flipV=0;" vertex="1" parent="1">
-          <mxGeometry x="745" y="728.5" width="62" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="At7sY8i9H949EmEd66Qm-80" value="代码统计" style="rounded=0;whiteSpace=wrap;html=1;comic=1;flipH=0;flipV=0;" vertex="1" parent="1">
           <mxGeometry x="833" y="735.5" width="62" height="30" as="geometry"/>
