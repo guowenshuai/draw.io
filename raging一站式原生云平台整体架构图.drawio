@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-05T12:37:40.550Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="A85XS1T_pn9mU-_q_m11" version="12.3.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-05T13:41:19.681Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="dzPOQRwgyk-nrVjIqf40" version="12.3.6" type="github" pages="1">
   <diagram id="OJ1-L1X5FSKiwOX5k5X4" name="Page-1">
     <mxGraphModel dx="1422" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -163,8 +163,38 @@
         <mxCell id="At7sY8i9H949EmEd66Qm-14" value="kibana" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="956.5" width="75" height="25" as="geometry"/>
         </mxCell>
-        <mxCell id="At7sY8i9H949EmEd66Qm-15" value="&lt;span&gt;开源组件集成&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=middle;comic=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="138" y="890" width="870" height="50" as="geometry"/>
+        <mxCell id="At7sY8i9H949EmEd66Qm-15" value="&lt;span&gt;平台能力层&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=middle;comic=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="138" y="810" width="870" height="130" as="geometry"/>
+        </mxCell>
+        <mxCell id="At7sY8i9H949EmEd66Qm-16" value="raging-hub服务中心" style="rounded=0;whiteSpace=wrap;html=1;comic=1;flipH=1;flipV=0;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="238" y="820" width="230" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="At7sY8i9H949EmEd66Qm-17" value="raging-operator集群控制中心" style="rounded=0;whiteSpace=wrap;html=1;comic=1;flipH=1;flipV=0;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="503" y="820" width="230" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="At7sY8i9H949EmEd66Qm-18" value="fronted-proxy用户服务控制" style="rounded=0;whiteSpace=wrap;html=1;comic=1;flipH=1;flipV=0;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="767" y="820" width="230" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="At7sY8i9H949EmEd66Qm-20" value="SSO" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="850" width="79" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="At7sY8i9H949EmEd66Qm-22" value="服务代理" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="359" y="850" width="79" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="At7sY8i9H949EmEd66Qm-23" value="用户管理服务" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="516" y="850" width="79" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="At7sY8i9H949EmEd66Qm-24" value="集群服务配置" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="603" y="850" width="122" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="At7sY8i9H949EmEd66Qm-25" value="权限配置服务" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="516" y="890" width="79" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="At7sY8i9H949EmEd66Qm-28" value="企业用户接口" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="890" width="79" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="At7sY8i9H949EmEd66Qm-29" value="流水线策略服务中心" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="603" y="890" width="122" height="25" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
