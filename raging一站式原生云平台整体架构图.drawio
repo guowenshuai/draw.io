@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-05T13:48:41.857Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="2kjO5brflU9Tk4iHGlds" version="12.3.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-05T13:50:01.728Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="riiQhreaqjxverLox51w" version="12.3.6" type="github" pages="1">
   <diagram id="OJ1-L1X5FSKiwOX5k5X4" name="Page-1">
     <mxGraphModel dx="1422" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -182,19 +182,19 @@
           <mxGeometry x="359" y="850" width="79" height="25" as="geometry"/>
         </mxCell>
         <mxCell id="At7sY8i9H949EmEd66Qm-23" value="用户管理服务" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
-          <mxGeometry x="522" y="850" width="80" height="25" as="geometry"/>
+          <mxGeometry x="510" y="850" width="80" height="25" as="geometry"/>
         </mxCell>
         <mxCell id="At7sY8i9H949EmEd66Qm-24" value="集群服务配置" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
-          <mxGeometry x="626" y="850" width="80" height="25" as="geometry"/>
+          <mxGeometry x="600" y="850" width="80" height="25" as="geometry"/>
         </mxCell>
         <mxCell id="At7sY8i9H949EmEd66Qm-25" value="权限配置服务" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
-          <mxGeometry x="522" y="890" width="80" height="25" as="geometry"/>
+          <mxGeometry x="510" y="890" width="80" height="25" as="geometry"/>
         </mxCell>
         <mxCell id="At7sY8i9H949EmEd66Qm-28" value="企业用户接口" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="890" width="79" height="25" as="geometry"/>
         </mxCell>
         <mxCell id="At7sY8i9H949EmEd66Qm-29" value="流水线策略" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
-          <mxGeometry x="626" y="890" width="80" height="25" as="geometry"/>
+          <mxGeometry x="600" y="890" width="80" height="25" as="geometry"/>
         </mxCell>
         <mxCell id="At7sY8i9H949EmEd66Qm-30" value="&lt;b&gt;企业用户系统&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;comic=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="29.5" y="799" width="80" height="210" as="geometry"/>
@@ -219,6 +219,9 @@
         </mxCell>
         <mxCell id="At7sY8i9H949EmEd66Qm-37" value="服务" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
           <mxGeometry x="357.5" y="890" width="79" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="At7sY8i9H949EmEd66Qm-38" value="消&lt;br&gt;息&lt;br&gt;中&lt;br&gt;心" style="rounded=0;whiteSpace=wrap;html=1;comic=1;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="689" y="848" width="32" height="70" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
