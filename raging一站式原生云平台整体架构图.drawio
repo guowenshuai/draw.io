@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-06T11:23:33.136Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="Z6xONm2qxO8vSL2AfcOy" version="12.3.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-06T11:28:11.261Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="J7eQHt7Qi4kNEqXm_sjl" version="12.3.7" type="github" pages="1">
   <diagram id="OJ1-L1X5FSKiwOX5k5X4" name="Page-1">
     <mxGraphModel dx="981" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -305,13 +305,13 @@
           <mxGeometry x="300.5000000000001" y="300" width="60" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="VoaYA9sa4vKBQJBn70-M-63" value="代码质量报告" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="923.5" y="278.5" width="79" height="21" as="geometry"/>
+          <mxGeometry x="923.5" y="276.5" width="79" height="21" as="geometry"/>
         </mxCell>
         <mxCell id="VoaYA9sa4vKBQJBn70-M-64" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0.75) ; font-family: &amp;#34;microsoft yahei&amp;#34; , &amp;#34;sf pro display&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;noto&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;用以衡量团队能够以一个怎样的频率实现从代码的提交到部署上线，这个是为了衡量多”快”&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
           <mxGeometry x="1240" y="140" width="370" height="22" as="geometry"/>
         </mxCell>
-        <mxCell id="VoaYA9sa4vKBQJBn70-M-65" value="BUG反馈报告" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
-          <mxGeometry x="1201.5" y="236.5" width="84" height="30" as="geometry"/>
+        <mxCell id="VoaYA9sa4vKBQJBn70-M-65" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: verdana, arial, helvetica, sans-serif; font-size: 10px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;自动化测试通过百分比&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="923.5" y="303" width="116" height="23" as="geometry"/>
         </mxCell>
         <mxCell id="VoaYA9sa4vKBQJBn70-M-66" value="人员工作量报告" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="923.5" y="248" width="79" height="23" as="geometry"/>
@@ -319,8 +319,8 @@
         <mxCell id="VoaYA9sa4vKBQJBn70-M-67" value="可视化数据统计" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
           <mxGeometry x="1195" y="419.5" width="89" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="VoaYA9sa4vKBQJBn70-M-68" value="监控报告" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
-          <mxGeometry x="1170.5" y="280.5" width="89" height="30" as="geometry"/>
+        <mxCell id="VoaYA9sa4vKBQJBn70-M-68" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: verdana, arial, helvetica, sans-serif; font-size: 10px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;工单处理效率&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1009" y="277" width="71" height="21" as="geometry"/>
         </mxCell>
         <mxCell id="VoaYA9sa4vKBQJBn70-M-70" value="燃尽图" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontSize=11;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="533.5" y="333" width="60" height="20" as="geometry"/>
