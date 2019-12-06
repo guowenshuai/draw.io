@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-06T11:31:18.187Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="Zw2MnOAUZkb2LVgFLO7M" version="12.3.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-06T11:33:55.515Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="WMMRiZgg61aOxMKwUzpN" version="12.3.7" type="github" pages="1">
   <diagram id="OJ1-L1X5FSKiwOX5k5X4" name="Page-1">
     <mxGraphModel dx="981" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -320,13 +320,13 @@
           <mxGeometry x="1195" y="419.5" width="89" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="VoaYA9sa4vKBQJBn70-M-68" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: verdana, arial, helvetica, sans-serif; font-size: 10px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;工单处理效率&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="1013" y="276.50000000000006" width="71" height="20" as="geometry"/>
+          <mxGeometry x="1015.5000000000002" y="276.50000000000006" width="71" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="VoaYA9sa4vKBQJBn70-M-70" value="燃尽图" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontSize=11;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="533.5" y="333" width="60" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="VoaYA9sa4vKBQJBn70-M-72" value="吞吐量" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="1044.5" y="303" width="40" height="20" as="geometry"/>
+          <mxGeometry x="1046.5" y="303" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="VoaYA9sa4vKBQJBn70-M-73" value="吞吐量" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="1200.5" y="140" width="40" height="23" as="geometry"/>
@@ -335,13 +335,22 @@
           <mxGeometry x="1343" y="162.5" width="267" height="220" as="geometry"/>
         </mxCell>
         <mxCell id="VoaYA9sa4vKBQJBn70-M-75" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;verdana&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;失败的部署&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="1013.5" y="248.00000000000006" width="71" height="20" as="geometry"/>
+          <mxGeometry x="1015.4999999999999" y="248.00000000000006" width="71" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="VoaYA9sa4vKBQJBn70-M-76" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;verdana&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;应用程序的性能&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="967" y="329" width="116" height="20" as="geometry"/>
+          <mxGeometry x="1013.5000000000001" y="329" width="73" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="VoaYA9sa4vKBQJBn70-M-77" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;verdana&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;应用程序的使用和流量&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="967.5" y="355" width="116" height="20" as="geometry"/>
+          <mxGeometry x="983.4999999999999" y="355" width="103" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="VoaYA9sa4vKBQJBn70-M-78" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;verdana&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;平均恢复时间&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="923.5000000000001" y="329.0000000000001" width="71" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="VoaYA9sa4vKBQJBn70-M-79" value="&lt;span style=&quot;margin: 0px ; padding: 0px ; color: rgb(51 , 51 , 51) ; font-family: &amp;#34;verdana&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;部署时间&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="923.5" y="355" width="50" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="VoaYA9sa4vKBQJBn70-M-81" value="&lt;span style=&quot;margin: 0px ; padding: 0px ; color: rgb(51 , 51 , 51) ; font-family: &amp;#34;verdana&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;应用程序指标&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="923.5000000000002" y="382.5" width="103" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
