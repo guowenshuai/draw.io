@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-06T10:09:15.790Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="QKa0ZCJcyYm0HqRqtLph" version="12.3.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-06T10:17:47.141Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="9N2MwRrEoRVLb7mBUDJC" version="12.3.7" type="github" pages="1">
   <diagram id="OJ1-L1X5FSKiwOX5k5X4" name="Page-1">
     <mxGraphModel dx="1185" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -352,14 +352,14 @@
         <mxCell id="VoaYA9sa4vKBQJBn70-M-33" value="资源管理" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="377.5" y="520" width="60" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="VoaYA9sa4vKBQJBn70-M-34" value="迭代看板" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="VoaYA9sa4vKBQJBn70-M-34" value="迭代看板" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontSize=12;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="443" y="493.5" width="60" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="VoaYA9sa4vKBQJBn70-M-35" value="甘特图视图" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="377.5" y="546" width="60" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="VoaYA9sa4vKBQJBn70-M-36" value="看板自定义" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="443" y="527" width="60" height="20" as="geometry"/>
+        <mxCell id="VoaYA9sa4vKBQJBn70-M-36" value="看板自定义" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontSize=11;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="443" y="520" width="60" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="VoaYA9sa4vKBQJBn70-M-37" value="资源视图" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
           <mxGeometry x="377.5" y="572" width="60" height="20" as="geometry"/>
@@ -367,13 +367,13 @@
         <mxCell id="VoaYA9sa4vKBQJBn70-M-38" value="任务视图" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
           <mxGeometry x="377.5" y="599" width="60" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="VoaYA9sa4vKBQJBn70-M-39" value="任务分配" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
-          <mxGeometry x="443" y="560" width="60" height="20" as="geometry"/>
+        <mxCell id="VoaYA9sa4vKBQJBn70-M-39" value="任务分配" style="rounded=0;whiteSpace=wrap;html=1;comic=1;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="443" y="546" width="60" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="VoaYA9sa4vKBQJBn70-M-40" value="任务关联和依赖" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="443" y="593" width="60" height="20" as="geometry"/>
+        <mxCell id="VoaYA9sa4vKBQJBn70-M-40" value="任务关联和依赖" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontSize=8;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="443" y="599" width="60" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="VoaYA9sa4vKBQJBn70-M-41" value="任务状态追踪" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="VoaYA9sa4vKBQJBn70-M-41" value="任务状态追踪" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontSize=9;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="443" y="625.5" width="60" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="VoaYA9sa4vKBQJBn70-M-42" value="代码仓库" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontSize=11;horizontal=1;verticalAlign=top;align=center;fontStyle=1" vertex="1" parent="1">
@@ -415,7 +415,7 @@
         <mxCell id="VoaYA9sa4vKBQJBn70-M-54" value="秘钥管理" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="738.5" y="588.5" width="62" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="VoaYA9sa4vKBQJBn70-M-55" value="镜像镜像" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="VoaYA9sa4vKBQJBn70-M-55" value="镜像策略" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="524" y="618" width="45" height="16" as="geometry"/>
         </mxCell>
         <mxCell id="VoaYA9sa4vKBQJBn70-M-57" value="工单历史回顾" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontSize=12;" vertex="1" parent="1">
@@ -432,6 +432,27 @@
         </mxCell>
         <mxCell id="VoaYA9sa4vKBQJBn70-M-62" value="成员角色" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
           <mxGeometry x="210.0000000000001" y="540" width="60" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="VoaYA9sa4vKBQJBn70-M-63" value="代码质量报告" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="1111" y="397.5" width="85" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="VoaYA9sa4vKBQJBn70-M-64" value="功能测试报告" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="1112" y="437.5" width="84" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="VoaYA9sa4vKBQJBn70-M-65" value="BUG反馈报告" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="1111" y="476.5" width="84" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="VoaYA9sa4vKBQJBn70-M-66" value="人员工作量报告" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="517.5" width="89" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="VoaYA9sa4vKBQJBn70-M-67" value="可视化数据统计" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="556.5" width="89" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="VoaYA9sa4vKBQJBn70-M-68" value="监控报告" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="1111" y="597.5" width="89" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="VoaYA9sa4vKBQJBn70-M-70" value="燃尽图" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontSize=11;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="442.99999999999994" y="573" width="60" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
