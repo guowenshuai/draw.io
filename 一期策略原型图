@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-06T03:57:31.882Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="-VdTBkSB9lzu4bejQeXz" version="12.3.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-06T04:03:53.556Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="xKcx8guyygJ8F0s4t0uL" version="12.3.7" type="github" pages="1">
   <diagram id="gU7x-3SubZmX8zrljYdJ" name="Page-1">
     <mxGraphModel dx="2249" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,31 +14,31 @@
           <mxGeometry x="920" y="640" width="630" height="480" as="geometry"/>
         </mxCell>
         <mxCell id="ajRjbsJ23XnMzNZ_S67L-3" value="更新开发环境镜像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1023" y="660" width="200" height="40" as="geometry"/>
+          <mxGeometry x="1023" y="649" width="200" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="ajRjbsJ23XnMzNZ_S67L-4" value="镜像更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1025" y="707" width="195" height="40" as="geometry"/>
+          <mxGeometry x="1025" y="696" width="195" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="ajRjbsJ23XnMzNZ_S67L-5" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="1192" y="723" width="10" height="10" as="geometry"/>
+          <mxGeometry x="1192" y="712" width="10" height="10" as="geometry"/>
         </mxCell>
         <mxCell id="ajRjbsJ23XnMzNZ_S67L-7" value="策略：" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="940" y="707" width="70" height="40" as="geometry"/>
+          <mxGeometry x="940" y="696" width="70" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="ajRjbsJ23XnMzNZ_S67L-9" value="名称：" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="940" y="660" width="70" height="40" as="geometry"/>
+          <mxGeometry x="940" y="649" width="70" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="ajRjbsJ23XnMzNZ_S67L-10" value="检测规则：" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="940" y="755" width="70" height="40" as="geometry"/>
+          <mxGeometry x="940" y="738" width="70" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="ajRjbsJ23XnMzNZ_S67L-12" value="master" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1025" y="804" width="195" height="40" as="geometry"/>
+          <mxGeometry x="1025" y="783" width="195" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="ajRjbsJ23XnMzNZ_S67L-14" value="发布到分支:" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="940" y="804" width="70" height="40" as="geometry"/>
+          <mxGeometry x="940" y="783" width="70" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="ajRjbsJ23XnMzNZ_S67L-16" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="1193" y="822" width="10" height="10" as="geometry"/>
+          <mxGeometry x="1193" y="801" width="10" height="10" as="geometry"/>
         </mxCell>
         <mxCell id="ajRjbsJ23XnMzNZ_S67L-18" value="流水线状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="640" width="70" height="40" as="geometry"/>
@@ -77,7 +77,7 @@
           <mxGeometry x="520" y="218" width="70" height="25" as="geometry"/>
         </mxCell>
         <mxCell id="ajRjbsJ23XnMzNZ_S67L-36" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1020" y="765" width="464" height="25" as="geometry"/>
+          <mxGeometry x="1020" y="748" width="464" height="25" as="geometry"/>
         </mxCell>
         <mxCell id="ajRjbsJ23XnMzNZ_S67L-30" value="Repo:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;fontStyle=0" vertex="1" parent="ajRjbsJ23XnMzNZ_S67L-36">
           <mxGeometry y="5" width="50" height="20" as="geometry"/>
@@ -98,13 +98,16 @@
           <mxGeometry x="425.5" width="77" height="25" as="geometry"/>
         </mxCell>
         <mxCell id="ajRjbsJ23XnMzNZ_S67L-37" value="文件：" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="940" y="852" width="70" height="40" as="geometry"/>
+          <mxGeometry x="940" y="831" width="70" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="ajRjbsJ23XnMzNZ_S67L-38" value="manifests/hello-world-dep.yaml" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1023" y="852" width="195" height="40" as="geometry"/>
+          <mxGeometry x="1023" y="831" width="195" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="ajRjbsJ23XnMzNZ_S67L-39" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="1207" y="891" width="10" height="10" as="geometry"/>
+          <mxGeometry x="1207" y="870" width="10" height="10" as="geometry"/>
+        </mxCell>
+        <mxCell id="ajRjbsJ23XnMzNZ_S67L-47" value="&lt;pre class=&quot;code highlight&quot; lang=&quot;yaml&quot;&gt;&lt;span id=&quot;LC21&quot; class=&quot;line&quot; lang=&quot;yaml&quot;&gt;    &lt;span class=&quot;na&quot;&gt;spec&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span id=&quot;LC31&quot; class=&quot;line&quot; lang=&quot;yaml&quot;&gt;      &lt;span class=&quot;na&quot;&gt;containers&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span id=&quot;LC32&quot; class=&quot;line&quot; lang=&quot;yaml&quot;&gt;      &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;pi&quot;&gt;{{&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;.Chart.Name&lt;/span&gt; &lt;span class=&quot;pi&quot;&gt;}}&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span id=&quot;LC33&quot; class=&quot;line&quot; lang=&quot;yaml&quot;&gt;        &lt;span class=&quot;na&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;{{&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;.Values.image.repository&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;}}:{{&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;.Values.image.tag&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;}}&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span id=&quot;LC34&quot; class=&quot;line&quot; lang=&quot;yaml&quot;&gt;        &lt;span class=&quot;na&quot;&gt;imagePullPolicy&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;pi&quot;&gt;{{&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;.Values.image.pullPolicy&lt;/span&gt; &lt;span class=&quot;pi&quot;&gt;}}&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span id=&quot;LC35&quot; class=&quot;line&quot; lang=&quot;yaml&quot;&gt;        &lt;span class=&quot;na&quot;&gt;ports&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span id=&quot;LC36&quot; class=&quot;line&quot; lang=&quot;yaml&quot;&gt;        &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;http&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span id=&quot;LC37&quot; class=&quot;line&quot; lang=&quot;yaml&quot;&gt;          &lt;span class=&quot;na&quot;&gt;containerPort&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;pi&quot;&gt;{{&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;.Values.container.port&lt;/span&gt; &lt;span class=&quot;pi&quot;&gt;}}&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span id=&quot;LC38&quot; class=&quot;line&quot; lang=&quot;yaml&quot;&gt;          &lt;span class=&quot;na&quot;&gt;protocol&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;TCP&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="880" width="520" height="160" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
