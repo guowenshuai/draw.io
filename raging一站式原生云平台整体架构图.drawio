@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-06T11:35:26.203Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="yuSDnYMYDxyXagfTECsL" version="12.3.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-06T11:36:24.325Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="iVJaFC4wG_INKspHCIQn" version="12.3.7" type="github" pages="1">
   <diagram id="OJ1-L1X5FSKiwOX5k5X4" name="Page-1">
     <mxGraphModel dx="1422" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -163,7 +163,7 @@
         <mxCell id="At7sY8i9H949EmEd66Qm-61" value="团队管理" style="rounded=0;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=middle;comic=1;fontStyle=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="228.5" y="210" width="870" height="209" as="geometry"/>
         </mxCell>
-        <mxCell id="At7sY8i9H949EmEd66Qm-71" value="项目管理" style="rounded=0;whiteSpace=wrap;html=1;align=center;comic=1;fontStyle=1;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="At7sY8i9H949EmEd66Qm-71" value="Scrum项目管理" style="rounded=0;whiteSpace=wrap;html=1;align=center;comic=1;fontStyle=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="376.5" y="220" width="414" height="190" as="geometry"/>
         </mxCell>
         <mxCell id="At7sY8i9H949EmEd66Qm-74" value="团队管理" style="rounded=0;whiteSpace=wrap;html=1;align=center;comic=1;fontStyle=1;verticalAlign=top;" parent="1" vertex="1">
