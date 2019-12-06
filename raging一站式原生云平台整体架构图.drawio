@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-06T11:34:10.848Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="7ha44f3pkZ7Q0ffsRfJp" version="12.3.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-06T11:34:16.879Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="UJ-XC2nzTef3voXalMJz" version="12.3.7" type="github" pages="1">
   <diagram id="OJ1-L1X5FSKiwOX5k5X4" name="Page-1">
-    <mxGraphModel dx="981" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="1193" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -315,9 +315,6 @@
         </mxCell>
         <mxCell id="VoaYA9sa4vKBQJBn70-M-66" value="人员工作量报告" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="923.5" y="248" width="79" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="VoaYA9sa4vKBQJBn70-M-67" value="可视化数据统计" style="rounded=0;whiteSpace=wrap;html=1;comic=1;" vertex="1" parent="1">
-          <mxGeometry x="1195" y="419.5" width="89" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="VoaYA9sa4vKBQJBn70-M-68" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: verdana, arial, helvetica, sans-serif; font-size: 10px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;工单处理效率&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="1015.5000000000002" y="276.50000000000006" width="71" height="20" as="geometry"/>
