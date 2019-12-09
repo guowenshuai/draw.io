@@ -1,1 +1,31 @@
-<mxfile host="www.draw.io" modified="2019-12-09T03:59:54.966Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" version="12.3.8" etag="-QTXfSVonbVBxpcp4mvD" type="github" pages="1"><diagram id="chONSkoR1P6s6y361hoe">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-12-09T04:07:21.812Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="jGYotqsOtCI_IEuJmlf-" version="12.3.8" type="github" pages="1">
+  <diagram id="chONSkoR1P6s6y361hoe" name="Page-1">
+    <mxGraphModel dx="1422" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="asxXTxtZfirM9TWgr6ys-9" value="ui" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;glass=1;comic=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="100" width="100" height="870" as="geometry"/>
+        </mxCell>
+        <mxCell id="asxXTxtZfirM9TWgr6ys-10" value="raging-hub" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;glass=1;comic=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="331" y="100" width="100" height="870" as="geometry"/>
+        </mxCell>
+        <mxCell id="asxXTxtZfirM9TWgr6ys-11" value="raging-server" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;glass=1;comic=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="512" y="100" width="100" height="870" as="geometry"/>
+        </mxCell>
+        <mxCell id="asxXTxtZfirM9TWgr6ys-12" value="raging数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;glass=1;comic=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="693" y="100" width="100" height="870" as="geometry"/>
+        </mxCell>
+        <mxCell id="asxXTxtZfirM9TWgr6ys-13" value="rancher" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;glass=1;comic=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="868" y="100" width="110" height="870" as="geometry"/>
+        </mxCell>
+        <mxCell id="asxXTxtZfirM9TWgr6ys-15" value="harbor" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;glass=1;comic=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1049" y="100" width="110" height="870" as="geometry"/>
+        </mxCell>
+        <mxCell id="asxXTxtZfirM9TWgr6ys-16" value="gitea" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;glass=1;comic=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="100" width="110" height="870" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
