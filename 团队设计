@@ -1,29 +1,107 @@
-<mxfile host="www.draw.io" modified="2019-12-09T04:07:21.812Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="jGYotqsOtCI_IEuJmlf-" version="12.3.8" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-09T05:25:27.494Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="XndS962Os5pzBPhH8Knp" version="12.3.8" type="github" pages="1">
   <diagram id="chONSkoR1P6s6y361hoe" name="Page-1">
-    <mxGraphModel dx="1422" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
         <mxCell id="asxXTxtZfirM9TWgr6ys-9" value="ui" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;glass=1;comic=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="150" y="100" width="100" height="870" as="geometry"/>
         </mxCell>
+        <mxCell id="asxXTxtZfirM9TWgr6ys-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=1;glass=1;comic=1;gradientColor=none;" vertex="1" parent="asxXTxtZfirM9TWgr6ys-9">
+          <mxGeometry x="45" y="100" width="10" height="180" as="geometry"/>
+        </mxCell>
         <mxCell id="asxXTxtZfirM9TWgr6ys-10" value="raging-hub" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;glass=1;comic=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="331" y="100" width="100" height="870" as="geometry"/>
+        </mxCell>
+        <mxCell id="asxXTxtZfirM9TWgr6ys-18" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=1;glass=1;comic=1;gradientColor=none;" vertex="1" parent="asxXTxtZfirM9TWgr6ys-10">
+          <mxGeometry x="45" y="100" width="10" height="160" as="geometry"/>
         </mxCell>
         <mxCell id="asxXTxtZfirM9TWgr6ys-11" value="raging-server" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;glass=1;comic=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="512" y="100" width="100" height="870" as="geometry"/>
         </mxCell>
-        <mxCell id="asxXTxtZfirM9TWgr6ys-12" value="raging数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;glass=1;comic=1;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="asxXTxtZfirM9TWgr6ys-12" value="raging数据库&lt;br&gt;/团队" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;glass=1;comic=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="693" y="100" width="100" height="870" as="geometry"/>
+        </mxCell>
+        <mxCell id="asxXTxtZfirM9TWgr6ys-34" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=1;glass=1;comic=1;gradientColor=none;" vertex="1" parent="asxXTxtZfirM9TWgr6ys-12">
+          <mxGeometry x="45" y="250" width="10" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="asxXTxtZfirM9TWgr6ys-13" value="rancher" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;glass=1;comic=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="868" y="100" width="110" height="870" as="geometry"/>
         </mxCell>
+        <mxCell id="asxXTxtZfirM9TWgr6ys-22" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=1;glass=1;comic=1;gradientColor=none;" vertex="1" parent="asxXTxtZfirM9TWgr6ys-13">
+          <mxGeometry x="48" y="100" width="10" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="asxXTxtZfirM9TWgr6ys-30" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=1;glass=1;comic=1;gradientColor=none;" vertex="1" parent="asxXTxtZfirM9TWgr6ys-13">
+          <mxGeometry x="48" y="180" width="10" height="20" as="geometry"/>
+        </mxCell>
         <mxCell id="asxXTxtZfirM9TWgr6ys-15" value="harbor" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;glass=1;comic=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="1049" y="100" width="110" height="870" as="geometry"/>
         </mxCell>
+        <mxCell id="asxXTxtZfirM9TWgr6ys-24" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=1;glass=1;comic=1;gradientColor=none;" vertex="1" parent="asxXTxtZfirM9TWgr6ys-15">
+          <mxGeometry x="50" y="130" width="10" height="20" as="geometry"/>
+        </mxCell>
         <mxCell id="asxXTxtZfirM9TWgr6ys-16" value="gitea" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;glass=1;comic=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="1230" y="100" width="110" height="870" as="geometry"/>
+        </mxCell>
+        <mxCell id="asxXTxtZfirM9TWgr6ys-20" value="创建团队请求" style="html=1;verticalAlign=bottom;endArrow=block;entryX=-0.183;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="asxXTxtZfirM9TWgr6ys-17" target="asxXTxtZfirM9TWgr6ys-18">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="280" y="630" as="sourcePoint"/>
+            <mxPoint x="360" y="630" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="asxXTxtZfirM9TWgr6ys-21" value="为该用户创建一个rancher项目" style="html=1;verticalAlign=bottom;endArrow=block;entryX=-0.176;entryY=0.066;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="asxXTxtZfirM9TWgr6ys-18" target="asxXTxtZfirM9TWgr6ys-22">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="469.76" y="199.67999999999995" as="sourcePoint"/>
+            <mxPoint x="737.6199999999999" y="201.75999999999988" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="asxXTxtZfirM9TWgr6ys-23" value="为该用户创建一个harbor项目" style="html=1;verticalAlign=bottom;endArrow=block;entryX=-0.207;entryY=0.314;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="asxXTxtZfirM9TWgr6ys-27" target="asxXTxtZfirM9TWgr6ys-24">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="396" y="215.27999999999986" as="sourcePoint"/>
+            <mxPoint x="926.2399999999998" y="215.27999999999986" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="asxXTxtZfirM9TWgr6ys-25" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=1;glass=1;comic=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="260" width="10" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="asxXTxtZfirM9TWgr6ys-26" value="为该用户创建一个gitea组织" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.107;entryY=0.297;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="asxXTxtZfirM9TWgr6ys-28" target="asxXTxtZfirM9TWgr6ys-25">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="399.3399999999999" y="242.79999999999984" as="sourcePoint"/>
+            <mxPoint x="1106.9300000000003" y="246.27999999999997" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="asxXTxtZfirM9TWgr6ys-27" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=1;glass=1;comic=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="381" y="220" width="10" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="asxXTxtZfirM9TWgr6ys-28" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=1;glass=1;comic=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="386" y="240" width="10" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="asxXTxtZfirM9TWgr6ys-29" value="将harbor镜像仓库凭证加入rancher，应用到整个项目" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" source="asxXTxtZfirM9TWgr6ys-28" target="asxXTxtZfirM9TWgr6ys-30">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="406" y="275.94000000000005" as="sourcePoint"/>
+            <mxPoint x="1291.0700000000002" y="275.94000000000005" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="asxXTxtZfirM9TWgr6ys-33" value="创建团队成功" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;" edge="1" target="asxXTxtZfirM9TWgr6ys-18" parent="1" source="asxXTxtZfirM9TWgr6ys-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="445" y="380" as="sourcePoint"/>
+            <Array as="points">
+              <mxPoint x="430" y="290"/>
+              <mxPoint x="430" y="340"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="asxXTxtZfirM9TWgr6ys-36" value="将关系存入数据库，团队--对应的数据" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" source="asxXTxtZfirM9TWgr6ys-18" target="asxXTxtZfirM9TWgr6ys-34">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="406" y="290" as="sourcePoint"/>
+            <mxPoint x="926" y="290" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="asxXTxtZfirM9TWgr6ys-37" value="创建成功，在页面展示" style="html=1;verticalAlign=bottom;endArrow=block;entryX=1.167;entryY=0.946;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="asxXTxtZfirM9TWgr6ys-34" target="asxXTxtZfirM9TWgr6ys-17">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="710" y="410" as="sourcePoint"/>
+            <mxPoint x="390" y="410" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
