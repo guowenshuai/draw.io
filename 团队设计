@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-09T05:29:43.524Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="asATFxkmp0IPecMifpIm" version="12.3.8" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-09T05:52:57.682Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="GypMFIzQ8JgydGc9hCEf" version="12.3.8" type="github" pages="1">
   <diagram id="chONSkoR1P6s6y361hoe" name="Page-1">
-    <mxGraphModel dx="2370" dy="1335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="813" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -34,6 +34,9 @@
         </mxCell>
         <mxCell id="asxXTxtZfirM9TWgr6ys-45" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=1;glass=1;comic=1;gradientColor=none;" vertex="1" parent="asxXTxtZfirM9TWgr6ys-10">
           <mxGeometry x="45" y="370" width="10" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="asxXTxtZfirM9TWgr6ys-52" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=1;glass=1;comic=1;gradientColor=none;" vertex="1" parent="asxXTxtZfirM9TWgr6ys-10">
+          <mxGeometry x="45" y="480" width="10" height="35" as="geometry"/>
         </mxCell>
         <mxCell id="asxXTxtZfirM9TWgr6ys-11" value="raging-server" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;glass=1;comic=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="512" y="100" width="100" height="870" as="geometry"/>
@@ -150,6 +153,12 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="394.9999999999998" y="490.32500000000005" as="sourcePoint"/>
             <mxPoint x="748" y="490.32500000000005" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="asxXTxtZfirM9TWgr6ys-53" value="走代理拿数据" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.071;entryY=0.237;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="asxXTxtZfirM9TWgr6ys-38" target="asxXTxtZfirM9TWgr6ys-52">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="215" y="487.0200000000001" as="sourcePoint"/>
+            <mxPoint x="386" y="487.0200000000001" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
       </root>
