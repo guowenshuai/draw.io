@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-12T08:44:13.739Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="yhnngWX7HE9OwhI1zhX_" version="12.3.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-12T08:46:22.848Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="ZDJCI_iuzTOP7QIyoog6" version="12.3.9" type="github" pages="1">
   <diagram id="JcPJvcP8vzCySAAviPYO" name="Page-1">
     <mxGraphModel dx="685" dy="1971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -330,7 +330,7 @@
             <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pUWlUDFWAZkER8MgcYpE-14" value="user sign up" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;shadow=0;comic=1;align=center;verticalAlign=top;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="pUWlUDFWAZkER8MgcYpE-14" value="user sign up&lt;br&gt;平台用户admin注册" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;shadow=0;comic=1;align=center;verticalAlign=top;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="560" y="772" width="121" height="38" as="geometry"/>
         </mxCell>
       </root>
