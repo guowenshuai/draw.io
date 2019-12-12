@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-12T07:03:08.875Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="f44IgIbfa7cvWkDyoCkr" version="12.3.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-12T07:04:39.875Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="_4yhDIwNZDKTO0Brja4I" version="12.3.9" type="github" pages="1">
   <diagram id="JcPJvcP8vzCySAAviPYO" name="Page-1">
     <mxGraphModel dx="1422" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -275,10 +275,10 @@
         <mxCell id="pTWJ6Jst6yiyt4CG1N3--24" value="&lt;span style=&quot;font-size: 20px&quot;&gt;RW&lt;/span&gt;" style="ellipse;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=80;shadow=0;labelBorderColor=none;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="350" y="784" width="56" height="56" as="geometry"/>
         </mxCell>
-        <mxCell id="pTWJ6Jst6yiyt4CG1N3--28" value="共享session认证" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="pTWJ6Jst6yiyt4CG1N3--27" target="76PlY3qgO6dOQQKfIqFN-6" edge="1">
+        <mxCell id="pTWJ6Jst6yiyt4CG1N3--28" value="1. 共享session认证" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="pTWJ6Jst6yiyt4CG1N3--27" target="76PlY3qgO6dOQQKfIqFN-6" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="pUWlUDFWAZkER8MgcYpE-1" value="获取用户rancher身份" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="pTWJ6Jst6yiyt4CG1N3--27" target="76PlY3qgO6dOQQKfIqFN-98">
+        <mxCell id="pUWlUDFWAZkER8MgcYpE-1" value="2. 获取用户rancher身份" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="pTWJ6Jst6yiyt4CG1N3--27" target="76PlY3qgO6dOQQKfIqFN-98">
           <mxGeometry x="-0.0755" y="15" relative="1" as="geometry">
             <mxPoint as="offset"/>
           </mxGeometry>
@@ -291,6 +291,14 @@
         </mxCell>
         <mxCell id="pUWlUDFWAZkER8MgcYpE-4" value="&lt;b&gt;kubernetes管理集群&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;comic=1;verticalAlign=top;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="448" y="970" width="1542" height="130" as="geometry"/>
+        </mxCell>
+        <mxCell id="pUWlUDFWAZkER8MgcYpE-5" value="&lt;b&gt;etcd数据库&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;verticalAlign=middle;align=center;fillColor=#f8cecc;strokeColor=#b85450;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="1261.5" y="990" width="174" height="75" as="geometry"/>
+        </mxCell>
+        <mxCell id="pUWlUDFWAZkER8MgcYpE-6" value="用户身份权限模拟" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="pTWJ6Jst6yiyt4CG1N3--27" target="pUWlUDFWAZkER8MgcYpE-5">
+          <mxGeometry x="-0.0875" y="-17" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
