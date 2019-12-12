@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-12T07:11:39.106Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="1YDGvG0X-6i_04PVNfpD" version="12.3.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-12T08:40:58.735Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="q6A5kH5u9v_3RuVMhTXN" version="12.3.9" type="github" pages="1">
   <diagram id="JcPJvcP8vzCySAAviPYO" name="Page-1">
-    <mxGraphModel dx="677" dy="381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="685" dy="1971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -286,7 +286,7 @@
           <mxGeometry x="449" y="760" width="532" height="130" as="geometry"/>
         </mxCell>
         <mxCell id="pTWJ6Jst6yiyt4CG1N3--22" value="ldap-operator" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;shadow=0;comic=1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="490" y="800" width="124" height="40" as="geometry"/>
+          <mxGeometry x="476.5" y="830" width="124" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="pTWJ6Jst6yiyt4CG1N3--23" value="" style="endArrow=classic;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="pTWJ6Jst6yiyt4CG1N3--22" target="WaIPd87Axu5HaH2UPQai-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -309,7 +309,7 @@
           <mxGeometry x="810" y="770" width="150" height="110" as="geometry"/>
         </mxCell>
         <mxCell id="pTWJ6Jst6yiyt4CG1N3--30" value="&lt;b&gt;strategy-operator&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;verticalAlign=middle;align=center;fillColor=#f8cecc;strokeColor=#b85450;opacity=50;" parent="1" vertex="1">
-          <mxGeometry x="637" y="800" width="108" height="40" as="geometry"/>
+          <mxGeometry x="619.5" y="830" width="108" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="pUWlUDFWAZkER8MgcYpE-5" value="&lt;b&gt;etcd数据库&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;verticalAlign=middle;align=center;fillColor=#f8cecc;strokeColor=#b85450;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="910" y="997.5" width="174" height="75" as="geometry"/>
@@ -323,6 +323,9 @@
           <mxGeometry x="0.0941" y="45" relative="1" as="geometry">
             <mxPoint as="offset"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pUWlUDFWAZkER8MgcYpE-14" value="user sign up" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;shadow=0;comic=1;align=center;verticalAlign=top;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="559.5" y="772" width="106" height="24" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
