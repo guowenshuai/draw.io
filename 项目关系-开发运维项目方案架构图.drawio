@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-18T09:36:45.831Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="fK-eDHpspua5RuW_CgA7" version="12.4.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-18T09:37:30.497Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="_liM3f9em3FAKAflJFjX" version="12.4.3" type="github" pages="1">
   <diagram id="JcPJvcP8vzCySAAviPYO" name="Page-1">
     <mxGraphModel dx="1673" dy="942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -312,7 +312,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pTWJ6Jst6yiyt4CG1N3--27" value="auth middleware" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;shadow=0;comic=1;align=center;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="810" y="770" width="150" height="110" as="geometry"/>
+          <mxGeometry x="810" y="770" width="150" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="pTWJ6Jst6yiyt4CG1N3--30" value="&lt;b&gt;strategy-operator&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;comic=1;verticalAlign=middle;align=center;fillColor=#f8cecc;strokeColor=#b85450;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="619.5" y="830" width="108" height="40" as="geometry"/>
@@ -332,6 +332,9 @@
         </mxCell>
         <mxCell id="pUWlUDFWAZkER8MgcYpE-14" value="admin signup&lt;br&gt;first-login check" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;shadow=0;comic=1;align=center;verticalAlign=top;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="560" y="772" width="121" height="38" as="geometry"/>
+        </mxCell>
+        <mxCell id="5Q98WM9BUxwI0AoxkGzE-1" value="权限控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;shadow=0;comic=1;align=center;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="810" y="820" width="150" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
