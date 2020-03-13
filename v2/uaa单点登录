@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-13T02:50:25.754Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="5GYf9LkCD9yj4IRaPyhz" version="12.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-13T02:56:12.911Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="ip7-I14qaaJOjX-b8zcB" version="12.8.4" type="github">
   <diagram id="VrDDGxi7R3nP4mPrMZ_6" name="Page-1">
     <mxGraphModel dx="868" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -458,6 +458,9 @@
         </mxCell>
         <mxCell id="CcIFdZE-yX_rLubFYPf0-74" value="设置token到header" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="567" y="1093" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CcIFdZE-yX_rLubFYPf0-81" value="另外，需要在认证函数&lt;span style=&quot;background-color: rgb(250 , 251 , 252) ; font-family: &amp;#34;dejavu sans mono&amp;#34; ; font-size: 9pt&quot;&gt;Authenticate()中&lt;/span&gt;&lt;span&gt;，添加对accessToken的认证，因为Oauth2颁发的accessToken，同时也要具有对UAA单点登录系统的api访问权限&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="1073" width="300" height="141" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
