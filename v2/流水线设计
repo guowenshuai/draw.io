@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-07T04:23:29.608Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="m-TOqjHAGQ_A2WNchVDL" version="12.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-07T04:31:03.708Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36" etag="-xk_nDtuNZnSs67X9fKd" version="12.9.8" type="github">
   <diagram id="EKL_b1SQ_Fa61GQVrcLy" name="Page-1">
-    <mxGraphModel dx="2858" dy="2313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2012" dy="1837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -116,6 +116,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Y38cLOqTsMMjg5pAumz1-3" value="identifier标识" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;curved=1;" edge="1" parent="1" source="KT1r2R8C3ELKJy4BJ950-41" target="Y38cLOqTsMMjg5pAumz1-2">
+          <mxGeometry x="0.1504" y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KT1r2R8C3ELKJy4BJ950-41" value="pipeline-job" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="519" y="170" width="120" height="60" as="geometry" />
         </mxCell>
@@ -131,11 +136,11 @@
         <mxCell id="KT1r2R8C3ELKJy4BJ950-62" value="database" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=0;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#000000;opacity=80;gradientColor=#ffffff;gradientDirection=north;fontSize=9;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1014" y="315" width="36" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="KT1r2R8C3ELKJy4BJ950-66" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;fontSize=9;fontColor=#000000;" parent="1" source="KT1r2R8C3ELKJy4BJ950-64" target="KT1r2R8C3ELKJy4BJ950-60" edge="1">
+        <mxCell id="KT1r2R8C3ELKJy4BJ950-66" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classicThin;startFill=1;endArrow=none;endFill=0;fontSize=9;fontColor=#000000;" parent="1" source="KT1r2R8C3ELKJy4BJ950-64" target="KT1r2R8C3ELKJy4BJ950-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KT1r2R8C3ELKJy4BJ950-64" value="根据task状态&lt;br&gt;计算stage状态&lt;br&gt;计算pileline状态" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=0;gradientColor=#ffffff;fontSize=9;fontColor=#000000;opacity=80;" parent="1" vertex="1">
-          <mxGeometry x="1161" y="60" width="80" height="100" as="geometry" />
+        <mxCell id="KT1r2R8C3ELKJy4BJ950-64" value="根据task状态&lt;br&gt;计算stage状态&lt;br&gt;计算pileline状态" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=0;fontSize=9;opacity=80;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
+          <mxGeometry x="1220" y="260" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="KT1r2R8C3ELKJy4BJ950-69" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="570" y="-120" width="144.27999999999997" height="82" as="geometry" />
@@ -204,6 +209,9 @@
         </mxCell>
         <mxCell id="KT1r2R8C3ELKJy4BJ950-96" value="分享/&lt;br&gt;导入" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classicThin;startFill=1;endArrow=classicThin;endFill=1;fontSize=11;fontColor=#000000;" parent="1" source="KT1r2R8C3ELKJy4BJ950-28" target="KT1r2R8C3ELKJy4BJ950-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y38cLOqTsMMjg5pAumz1-2" value="identifier标识用来维护task任务状态和数据更新" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=0;fontSize=9;opacity=80;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="380" width="80" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
